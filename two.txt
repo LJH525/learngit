@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-create branch dev add wu
-=======
 create branch dev add ljh
->>>>>>> feature1
+
