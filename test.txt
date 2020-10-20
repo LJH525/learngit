@@ -1,2 +1,4 @@
-dd:wq
+git push
+LJH525
+ljh109914
 
